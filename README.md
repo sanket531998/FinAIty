@@ -76,5 +76,3 @@ Coming soon – hackathon demo video & screenshots.
 MIT License – feel free to fork and build.
 
 ---
-
-If you want, I can now make you a **slightly upgraded hackathon-friendly README** with an **architecture diagram** and a **demo flow diagram** so the judges instantly get your project. That would make your repo stand out immediately.
